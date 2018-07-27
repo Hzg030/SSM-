@@ -1,5 +1,5 @@
     Hello World   配置文件式:
-	1.  导入jar包
+	1.  导入jar包 
 	2. 配置环境：log4j.properties，mybatis-config.xml(配置数据库环境，datasource)
 	3. 读取配置文件创建SqlSessionFactory对象
 	4. 建立Mapper映射文件，xxxMapper.xml：包括编写sql语句，mapper名称空间
