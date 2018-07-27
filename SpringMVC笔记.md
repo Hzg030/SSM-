@@ -1,6 +1,6 @@
 SpringMVC架构原理
 	* 一次请求的步骤：
-
+ 
 		* 第一步：发起请求到前端控制器（DispatcheServlet）
 		* 第二步：前端控制器请求HandlerMapping查找Handler
 		* 第三步：处理器映射器（HandlerMapping）向前端控制器返回Handler
